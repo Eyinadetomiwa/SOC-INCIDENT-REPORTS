@@ -3,7 +3,7 @@ This folder contains the deliverables completed for the Datacom Cyber Security O
 
 Deliverables
 
-### 1. [Cybersecurity Risk Assessment — RetailNova Pty Ltd](/Risk%20Assessment%20Report.pdf)
+### 1. [Cybersecurity Risk Assessment — RetailNova Pty Ltd](./Datacom-Forage-Simulation/Risk%20Assessment%20Report.pdf)
 
 Asset Scope: Mapped Customer Data & E-commerce/Mobile Platform, Core business and Store Systems, and Third Party Integration, including associated threats, vulnerabilities, and mitigation notes.
 
