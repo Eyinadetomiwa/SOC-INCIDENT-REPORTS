@@ -1,14 +1,6 @@
 
 This folder contains the deliverables completed for the Datacom Cyber Security Operations job simulation on Forage.
 
-Folder Contents
-
-datacom-forage-simulation/
-├── README.md
-├── Risk Assessment Report.pdf(Risk%20Assessment%20Report.pdf)
-└── Datacom Security Breach Impact Report.docx(Datacom%20Security%20Breach%20Impact%20Report.docx)
-
-
 Deliverables
 
 1. Cybersecurity Risk Assessment — RetailNova Pty Ltd (Risk Assessment Report.pdf)
