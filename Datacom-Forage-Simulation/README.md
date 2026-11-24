@@ -5,8 +5,8 @@ Folder Contents
 
 datacom-forage-simulation/
 ├── README.md
-├── Risk Assessment Report.pdf
-└── Datacom Security Breach Impact Report.docx
+├── Risk Assessment Report.pdf(Risk%20Assessment%20Report.pdf)
+└── Datacom Security Breach Impact Report.docx(Datacom%20Security%20Breach%20Impact%20Report.docx)
 
 
 Deliverables
